@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>Reproduciendo</title>
+  <trackList>
+    <track>
+      <location>http://109.123.116.202:8022/stream/1/</location>
+      <creator>Venice Classic Radio Italia</creator>
+      <title>Luigi Cherubini (1760-1842) - Sonata per pianoforte in si bemolle maggiore n.3 (10:54)  {+info: veniceclassicradio.eu}</title>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>http://icestreaming.rai.it/5.mp3?auth=daEaXbWd5dNcybLdDd5dXcFdMabcCa6cwbG-bzafQk-c0-JkzxyHw&amp;aifp=V001</location>
+      <creator>Radio Classica</creator>
+      <title></title>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>http://icestreaming.rai.it/3.mp3</location>
+      <creator>Radio3</creator>
+      <title></title>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>http://stream.srg-ssr.ch/m/rsc_it/aacp_96</location>
+      <creator>Radio Svizzera Classica</creator>
+      <title>Frédéric Chopin - Valzer in la bemolle maggiore op. 42</title>
+      <meta rel="bitrate">96</meta>
+    </track>
+    <track>
+      <location>http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3</location>
+      <creator>Radio Classique</creator>
+      <title>F.Ferrand raconte sur Radio Classique: - Armstrong 69 : @FranckFerrand</title>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>http://streaming.radionomy.com/MasFlamencoRadio</location>
+      <creator>JamendoLounge</creator>
+      <title>BREEZELESS - Northern Sea Coast</title>
+      <meta rel="bitrate">128</meta>
+    </track>
+    <track>
+      <location>http://19983.live.streamtheworld.com/CADENASERAAC.aac?csegid=2000=1=BOVxKsDOVxKsDBTABAESBv-AAAAiB7_______9______9uz_Gv_v_f__33e8__9v_l_7_-___u_-33d4-_1vX99yfm1-7ftr3tp_86ues2_Xur_959__3z04=js-2.9=TDSdk=2.9=none=1=26427ed5-b327-483a-bbe2-8304beb772f3</location>
+      <creator></creator>
+      <title>Cadena SER Genérico - Cadena SER Genérico</title>
+      <meta rel="bitrate">48</meta>
+    </track>
+
+
+    <track>
+      <location>http://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3</location>
+      <creator></creator>
+      <title>Capital Radio</title>
+      <meta rel="bitrate">48</meta>
+    </track>
+
+    
+  </trackList>
+</playlist>
